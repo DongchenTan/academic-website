@@ -70,11 +70,10 @@ user_groups:
 - Visitors
 ---
 
-聘聘袅袅十三余，豆蔻梢头二月初。
-春风十里扬州路，卷上珠帘总不如。
+I love thee freely, as men strive for Right;I love thee purely, as they turn from Praise.
 
-微风轻拂的沙滩，落日余晖中的大海，斑驳斜倚的渔船，还有我和你。
-盛夏蝉鸣的北戴河，拥挤喧闹的簋街，从北京开往武汉的火车，还有我和你。
-初秋闷热繁华的深圳和广州，隆冬安静美丽的汉口和江滩，还有我和你。
-过去的时光，未来的光阴，还有我和你。
-我和你。
+The breeze blowing the beach, the sea in the setting sun, the mottled reclining fishing boat, and me and you.
+Beidaihe, a cicada in midsummer, a crowded and noisy Guijie, a train from Beijing to Wuhan, and you and me
+The sultry and prosperous Shenzhen and Guangzhou in early autumn, the quiet and beautiful Hankou and Jiangtan in the winter, and you and me
+The past time, the future time, and me and you.
+Me and you.
