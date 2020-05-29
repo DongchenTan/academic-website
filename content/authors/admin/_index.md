@@ -72,8 +72,8 @@ user_groups:
 
 I love thee freely, as men strive for Right;I love thee purely, as they turn from Praise.
 
-The breeze blowing the beach, the sea in the setting sun, the mottled reclining fishing boat, and me and you.
-Beidaihe, a cicada in midsummer, a crowded and noisy Guijie, a train from Beijing to Wuhan, and you and me
+The beach with the breeze, the sea in the setting sun, the mottled reclining fishing boat, and you and me.
+The cicadas of Beidaihe, the crowded Gui Street, the train from Beijing to Wuhan, and you and me.
 The sultry and prosperous Shenzhen and Guangzhou in early autumn, the quiet and beautiful Hankou and Jiangtan in the winter, and you and me
 The past time, the future time, and me and you.
-Me and you.
+It will always be me and you.
