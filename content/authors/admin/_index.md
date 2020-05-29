@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: love you
+role: I Love You
 
 # Organizations/Affiliations
 organizations:
