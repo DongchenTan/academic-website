@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Dalian University of Technology & Southern University of Science and Technology
+role: love you
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Dalian University of Technology & Southern University of Science and Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
