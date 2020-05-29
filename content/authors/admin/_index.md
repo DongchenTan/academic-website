@@ -70,6 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+聘聘袅袅十三余，豆蔻梢头二月初。
+春风十里扬州路，卷上珠帘总不如。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+微风轻拂的沙滩，落日余晖中的大海，斑驳斜倚的渔船，还有我和你。
+盛夏蝉鸣的北戴河，拥挤喧闹的簋街，从北京开往武汉的火车，还有我和你。
+初秋闷热繁华的深圳和广州，隆冬安静美丽的汉口和江滩，还有我和你。
+过去的时光，未来的光阴，还有我和你。
+我和你。
