@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: TDC&CY
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Dalian University of Technology & Southern University of Science and Technology
 
 # Organizations/Affiliations
 organizations:
