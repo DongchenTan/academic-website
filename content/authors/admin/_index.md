@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Pink Pig:DongchenTan
+DongchenTan
 - 1997.03.02
 - Love his obedient bunny
 - Handsome and charming
 
-Obedient Bunny:YuChen
+YuChen
 - 1997.04.20
 - Love her pink pig
 - Lovely and cute
